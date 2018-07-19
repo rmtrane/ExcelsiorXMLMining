@@ -1,0 +1,3627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Grading QC Series-->
+<GradingReports>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154402</RandomizedSiteId>
+      <AffiliationName>Moorfields Eye Hospital NHS Foundation Trust</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15440208</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V6a</TimePoint>
+    <StudyDate>20171211</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>03967-S3600</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Spectralis (OCT)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-12-13" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE)</LayersLabel>
+          <CenterLocation>(254,48)</CenterLocation>
+          <CenterPointThickness>0.116</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>7.285</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.192</ThicknessSector_C>
+            <ThicknessSector_II>0.253</ThicknessSector_II>
+            <ThicknessSector_IN>0.290</ThicknessSector_IN>
+            <ThicknessSector_IS>0.266</ThicknessSector_IS>
+            <ThicknessSector_IT>0.244</ThicknessSector_IT>
+            <ThicknessSector_OI>0.246</ThicknessSector_OI>
+            <ThicknessSector_ON>0.295</ThicknessSector_ON>
+            <ThicknessSector_OS>0.271</ThicknessSector_OS>
+            <ThicknessSector_OT>0.221</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.15</VolumeSector_C>
+            <VolumeSector_II>0.40</VolumeSector_II>
+            <VolumeSector_IN>0.46</VolumeSector_IN>
+            <VolumeSector_IS>0.42</VolumeSector_IS>
+            <VolumeSector_IT>0.38</VolumeSector_IT>
+            <VolumeSector_OI>1.30</VolumeSector_OI>
+            <VolumeSector_ON>1.56</VolumeSector_ON>
+            <VolumeSector_OS>1.44</VolumeSector_OS>
+            <VolumeSector_OT>1.17</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Definitely Abnormal, Patchy</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154402</RandomizedSiteId>
+      <AffiliationName>Moorfields Eye Hospital NHS Foundation Trust</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15440208</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V6a</TimePoint>
+    <StudyDate>20171211</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>03967-S3600</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Spectralis (OCT)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-12-13" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE)</LayersLabel>
+          <CenterLocation>(257,48)</CenterLocation>
+          <CenterPointThickness>0.124</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>7.296</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.192</ThicknessSector_C>
+            <ThicknessSector_II>0.254</ThicknessSector_II>
+            <ThicknessSector_IN>0.293</ThicknessSector_IN>
+            <ThicknessSector_IS>0.267</ThicknessSector_IS>
+            <ThicknessSector_IT>0.244</ThicknessSector_IT>
+            <ThicknessSector_OI>0.246</ThicknessSector_OI>
+            <ThicknessSector_ON>0.295</ThicknessSector_ON>
+            <ThicknessSector_OS>0.272</ThicknessSector_OS>
+            <ThicknessSector_OT>0.222</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.15</VolumeSector_C>
+            <VolumeSector_II>0.40</VolumeSector_II>
+            <VolumeSector_IN>0.46</VolumeSector_IN>
+            <VolumeSector_IS>0.42</VolumeSector_IS>
+            <VolumeSector_IT>0.38</VolumeSector_IT>
+            <VolumeSector_OI>1.30</VolumeSector_OI>
+            <VolumeSector_ON>1.56</VolumeSector_ON>
+            <VolumeSector_OS>1.44</VolumeSector_OS>
+            <VolumeSector_OT>1.18</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Definitely Abnormal, Patchy</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154208</RandomizedSiteId>
+      <AffiliationName>Evropska ocni klinika Lexum Praha</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420802</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170209</StudyDate>
+    <Procedure>FP-7M</Procedure>
+    <Equipment>
+      <EquipmentSerial>948970</EquipmentSerial>
+      <EquipmentType>Fundus Camera</EquipmentType>
+      <EquipmentModel>50DX</EquipmentModel>
+      <EquipmentManufacturer>Topcon Corporation</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-03-16" PerformedBy="Watson, Sheila">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS1: high confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score Reason</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Scatter PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Focal PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Papillary swelling</Question>
+        <Answer>None</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Clinically significant ME (ETDRS)</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Confounding abnormalities</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Diabetic retinopathy severity level</Question>
+        <Answer>47A</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>DR severity level recode value</Question>
+        <Answer>5</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>General Comments</Question>
+        <Answer>na</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154208</RandomizedSiteId>
+      <AffiliationName>Evropska ocni klinika Lexum Praha</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420802</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170209</StudyDate>
+    <Procedure>FP-7M</Procedure>
+    <Equipment>
+      <EquipmentSerial>948970</EquipmentSerial>
+      <EquipmentType>Fundus Camera</EquipmentType>
+      <EquipmentModel>50DX</EquipmentModel>
+      <EquipmentManufacturer>Topcon Corporation</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-20" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score Reason</Question>
+        <Answer>Unknown</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Scatter PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Focal PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Papillary swelling</Question>
+        <Answer>None</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Clinically significant ME (ETDRS)</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Confounding abnormalities</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Diabetic retinopathy severity level</Question>
+        <Answer>47C</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>DR severity level recode value</Question>
+        <Answer>5</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>General Comments</Question>
+        <Answer>NA</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>150112</RandomizedSiteId>
+      <AffiliationName>Arizona Retina and Vitreous Consultants</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15011203</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V4a</TimePoint>
+    <StudyDate>20170412</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>400-11252</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-14" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(257,69)</CenterLocation>
+          <CenterPointThickness>0.229</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>8.178</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.263</ThicknessSector_C>
+            <ThicknessSector_II>0.301</ThicknessSector_II>
+            <ThicknessSector_IN>0.305</ThicknessSector_IN>
+            <ThicknessSector_IS>0.296</ThicknessSector_IS>
+            <ThicknessSector_IT>0.281</ThicknessSector_IT>
+            <ThicknessSector_OI>0.306</ThicknessSector_OI>
+            <ThicknessSector_ON>0.290</ThicknessSector_ON>
+            <ThicknessSector_OS>0.295</ThicknessSector_OS>
+            <ThicknessSector_OT>0.262</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.21</VolumeSector_C>
+            <VolumeSector_II>0.47</VolumeSector_II>
+            <VolumeSector_IN>0.48</VolumeSector_IN>
+            <VolumeSector_IS>0.47</VolumeSector_IS>
+            <VolumeSector_IT>0.44</VolumeSector_IT>
+            <VolumeSector_OI>1.62</VolumeSector_OI>
+            <VolumeSector_ON>1.54</VolumeSector_ON>
+            <VolumeSector_OS>1.57</VolumeSector_OS>
+            <VolumeSector_OT>1.39</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, outside central subfield</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Outside Central Subfield</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Absent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Normal</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>150112</RandomizedSiteId>
+      <AffiliationName>Arizona Retina and Vitreous Consultants</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15011203</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V4a</TimePoint>
+    <StudyDate>20170412</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>400-11252</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-17" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(255,70)</CenterLocation>
+          <CenterPointThickness>0.235</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>Cannot grade</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.261</ThicknessSector_C>
+            <ThicknessSector_II>Cannot grade</ThicknessSector_II>
+            <ThicknessSector_IN>Cannot grade</ThicknessSector_IN>
+            <ThicknessSector_II>Cannot grade</ThicknessSector_II>
+            <ThicknessSector_IS>Cannot grade</ThicknessSector_IS>
+            <ThicknessSector_IT>Cannot grade</ThicknessSector_IT>
+            <ThicknessSector_OI>Cannot grade</ThicknessSector_OI>
+            <ThicknessSector_ON>Cannot grade</ThicknessSector_ON>
+            <ThicknessSector_OS>Cannot grade</ThicknessSector_OS>
+            <ThicknessSector_OT>Cannot grade</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.21</VolumeSector_C>
+            <VolumeSector_II>Cannot grade</VolumeSector_II>
+            <VolumeSector_IN>Cannot grade</VolumeSector_IN>
+            <VolumeSector_IS>Cannot grade</VolumeSector_IS>
+            <VolumeSector_IT>Cannot grade</VolumeSector_IT>
+            <VolumeSector_OI>Cannot grade</VolumeSector_OI>
+            <VolumeSector_ON>Cannot grade</VolumeSector_ON>
+            <VolumeSector_OS>Cannot grade</VolumeSector_OS>
+            <VolumeSector_OT>Cannot grade</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>No</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Outside Central Subfield</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Questionable PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Normal</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154402</RandomizedSiteId>
+      <AffiliationName>Moorfields Eye Hospital NHS Foundation Trust</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15440201</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170425</StudyDate>
+    <Procedure>FP-7M</Procedure>
+    <Equipment>
+      <EquipmentSerial>870955</EquipmentSerial>
+      <EquipmentType>Fundus Camera</EquipmentType>
+      <EquipmentModel>50DX</EquipmentModel>
+      <EquipmentManufacturer>Topcon Corporation</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-05-11" PerformedBy="Watson, Sheila">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS1: high confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score Reason</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Scatter PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Focal PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Papillary swelling</Question>
+        <Answer>None</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Clinically significant ME (ETDRS)</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Confounding abnormalities</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Diabetic retinopathy severity level</Question>
+        <Answer>53C</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>DR severity level recode value</Question>
+        <Answer>6</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>General Comments</Question>
+        <Answer>na</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154402</RandomizedSiteId>
+      <AffiliationName>Moorfields Eye Hospital NHS Foundation Trust</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15440201</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170425</StudyDate>
+    <Procedure>FP-7M</Procedure>
+    <Equipment>
+      <EquipmentSerial>870955</EquipmentSerial>
+      <EquipmentType>Fundus Camera</EquipmentType>
+      <EquipmentModel>50DX</EquipmentModel>
+      <EquipmentManufacturer>Topcon Corporation</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-12" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score Reason</Question>
+        <Answer>Technical</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Scatter PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Focal PC</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Papillary swelling</Question>
+        <Answer>None</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Morphology</Group>
+        <Question>Clinically significant ME (ETDRS)</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Confounding abnormalities</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>Diabetic retinopathy severity level</Question>
+        <Answer>53C</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>DR severity level recode value</Question>
+        <Answer>6</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>DR Assessment</Group>
+        <Question>General Comments</Question>
+        <Answer>Field 6 is missing.</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420111</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V3</TimePoint>
+    <StudyDate>20170313</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-20" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(257,65)</CenterLocation>
+          <CenterPointThickness>0.246</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>Cannot grade</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.289</ThicknessSector_C>
+            <ThicknessSector_II>Cannot grade</ThicknessSector_II>
+            <ThicknessSector_IN>Cannot grade</ThicknessSector_IN>
+            <ThicknessSector_II>Cannot grade</ThicknessSector_II>
+            <ThicknessSector_IS>Cannot grade</ThicknessSector_IS>
+            <ThicknessSector_IT>Cannot grade</ThicknessSector_IT>
+            <ThicknessSector_OI>Cannot grade</ThicknessSector_OI>
+            <ThicknessSector_ON>Cannot grade</ThicknessSector_ON>
+            <ThicknessSector_OS>Cannot grade</ThicknessSector_OS>
+            <ThicknessSector_OT>Cannot grade</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.23</VolumeSector_C>
+            <VolumeSector_II>Cannot grade</VolumeSector_II>
+            <VolumeSector_IN>Cannot grade</VolumeSector_IN>
+            <VolumeSector_IS>Cannot grade</VolumeSector_IS>
+            <VolumeSector_IT>Cannot grade</VolumeSector_IT>
+            <VolumeSector_OI>Cannot grade</VolumeSector_OI>
+            <VolumeSector_ON>Cannot grade</VolumeSector_ON>
+            <VolumeSector_OS>Cannot grade</VolumeSector_OS>
+            <VolumeSector_OT>Cannot grade</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>No</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Questionably Abnormal</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420111</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V3</TimePoint>
+    <StudyDate>20170313</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-20" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(258,64)</CenterLocation>
+          <CenterPointThickness>0.268</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>Cannot grade</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.290</ThicknessSector_C>
+            <ThicknessSector_II>Cannot grade</ThicknessSector_II>
+            <ThicknessSector_IN>Cannot grade</ThicknessSector_IN>
+            <ThicknessSector_II>Cannot grade</ThicknessSector_II>
+            <ThicknessSector_IS>Cannot grade</ThicknessSector_IS>
+            <ThicknessSector_IT>Cannot grade</ThicknessSector_IT>
+            <ThicknessSector_OI>Cannot grade</ThicknessSector_OI>
+            <ThicknessSector_ON>Cannot grade</ThicknessSector_ON>
+            <ThicknessSector_OS>Cannot grade</ThicknessSector_OS>
+            <ThicknessSector_OT>Cannot grade</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.23</VolumeSector_C>
+            <VolumeSector_II>Cannot grade</VolumeSector_II>
+            <VolumeSector_IN>Cannot grade</VolumeSector_IN>
+            <VolumeSector_IS>Cannot grade</VolumeSector_IS>
+            <VolumeSector_IT>Cannot grade</VolumeSector_IT>
+            <VolumeSector_OI>Cannot grade</VolumeSector_OI>
+            <VolumeSector_ON>Cannot grade</VolumeSector_ON>
+            <VolumeSector_OS>Cannot grade</VolumeSector_OS>
+            <VolumeSector_OT>Cannot grade</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>No</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Questionably Abnormal</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420109</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V5</TimePoint>
+    <StudyDate>20170418</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-08" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(261,62)</CenterLocation>
+          <CenterPointThickness>0.182</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>6.927</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.225</ThicknessSector_C>
+            <ThicknessSector_II>0.276</ThicknessSector_II>
+            <ThicknessSector_IN>0.273</ThicknessSector_IN>
+            <ThicknessSector_IS>0.276</ThicknessSector_IS>
+            <ThicknessSector_IT>0.270</ThicknessSector_IT>
+            <ThicknessSector_OI>0.244</ThicknessSector_OI>
+            <ThicknessSector_ON>0.249</ThicknessSector_ON>
+            <ThicknessSector_OS>0.228</ThicknessSector_OS>
+            <ThicknessSector_OT>0.228</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.18</VolumeSector_C>
+            <VolumeSector_II>0.43</VolumeSector_II>
+            <VolumeSector_IN>0.43</VolumeSector_IN>
+            <VolumeSector_IS>0.43</VolumeSector_IS>
+            <VolumeSector_IT>0.42</VolumeSector_IT>
+            <VolumeSector_OI>1.29</VolumeSector_OI>
+            <VolumeSector_ON>1.32</VolumeSector_ON>
+            <VolumeSector_OS>1.21</VolumeSector_OS>
+            <VolumeSector_OT>1.21</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <DistanceMeasurement>
+          <DistanceLength>0.083</DistanceLength>
+          <DistanceUnit>mm</DistanceUnit>
+        </DistanceMeasurement>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <DistanceMeasurement>
+          <DistanceLength>0.083</DistanceLength>
+          <DistanceUnit>mm</DistanceUnit>
+        </DistanceMeasurement>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Cannot Grade</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420109</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V5</TimePoint>
+    <StudyDate>20170418</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-09" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(262,62)</CenterLocation>
+          <CenterPointThickness>0.182</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>6.924</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.225</ThicknessSector_C>
+            <ThicknessSector_II>0.276</ThicknessSector_II>
+            <ThicknessSector_IN>0.273</ThicknessSector_IN>
+            <ThicknessSector_IS>0.276</ThicknessSector_IS>
+            <ThicknessSector_IT>0.270</ThicknessSector_IT>
+            <ThicknessSector_OI>0.243</ThicknessSector_OI>
+            <ThicknessSector_ON>0.249</ThicknessSector_ON>
+            <ThicknessSector_OS>0.228</ThicknessSector_OS>
+            <ThicknessSector_OT>0.228</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.18</VolumeSector_C>
+            <VolumeSector_II>0.43</VolumeSector_II>
+            <VolumeSector_IN>0.43</VolumeSector_IN>
+            <VolumeSector_IS>0.43</VolumeSector_IS>
+            <VolumeSector_IT>0.42</VolumeSector_IT>
+            <VolumeSector_OI>1.29</VolumeSector_OI>
+            <VolumeSector_ON>1.32</VolumeSector_ON>
+            <VolumeSector_OS>1.21</VolumeSector_OS>
+            <VolumeSector_OT>1.21</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <DistanceMeasurement>
+          <DistanceLength>0.077</DistanceLength>
+          <DistanceUnit>mm</DistanceUnit>
+        </DistanceMeasurement>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <DistanceMeasurement>
+          <DistanceLength>0.077</DistanceLength>
+          <DistanceUnit>mm</DistanceUnit>
+        </DistanceMeasurement>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Cannot Grade</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>153405</RandomizedSiteId>
+      <AffiliationName>Valles Oftalmologia Recerca Hospital General de Catalunya</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15340501</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170421</StudyDate>
+    <Procedure>FA</Procedure>
+    <Equipment>
+      <EquipmentSerial>03686-S3600</EquipmentSerial>
+      <EquipmentType>cSLO FAF and Angiogram</EquipmentType>
+      <EquipmentModel>Spectralis (cSLO)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-09" PerformedBy="Shaw, Ruth">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS1: high confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score Reason</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Total Area</Group>
+        <Question>Total Area of Capillary non perfusion within ETDRS grid</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Total Area</Group>
+        <Question>Total Area of Fluorescein leakage within ETDRS grid</Question>
+        <AreaMeasurement>
+          <AreaSize>11.486391277452835</AreaSize>
+          <AreaSizeUnit>mm</AreaSizeUnit>
+          <Perimeter>40.481</Perimeter>
+          <PerimeterUnit>mm</PerimeterUnit>
+          <DistanceToFovea>0</DistanceToFovea>
+          <DistanceToFoveaUnit>mm</DistanceToFoveaUnit>
+        </AreaMeasurement>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Total Area</Group>
+        <Question>Total Area of cystoid changes within ETDRS grid</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Vessels</Group>
+        <Question>NVD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Vessels</Group>
+        <Question>NVE</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confounding Abnormalities</Group>
+        <Question>Confounding abnormalities</Question>
+        <Answer>NA</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Comments</Group>
+        <Question>Comments</Question>
+        <Answer>NA</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>153405</RandomizedSiteId>
+      <AffiliationName>Valles Oftalmologia Recerca Hospital General de Catalunya</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15340501</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170421</StudyDate>
+    <Procedure>FA</Procedure>
+    <Equipment>
+      <EquipmentSerial>03686-S3600</EquipmentSerial>
+      <EquipmentType>cSLO FAF and Angiogram</EquipmentType>
+      <EquipmentModel>Spectralis (cSLO)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-12" PerformedBy="Reed, Susan">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score Reason</Question>
+        <Answer>Unknown</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Total Area</Group>
+        <Question>Total Area of Capillary non perfusion within ETDRS grid</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Total Area</Group>
+        <Question>Total Area of Fluorescein leakage within ETDRS grid</Question>
+        <AreaMeasurement>
+          <AreaSize>12.180684882457319</AreaSize>
+          <AreaSizeUnit>mm</AreaSizeUnit>
+          <Perimeter>19.405</Perimeter>
+          <PerimeterUnit>mm</PerimeterUnit>
+          <DistanceToFovea>0</DistanceToFovea>
+          <DistanceToFoveaUnit>mm</DistanceToFoveaUnit>
+        </AreaMeasurement>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Total Area</Group>
+        <Question>Total Area of cystoid changes within ETDRS grid</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Vessels</Group>
+        <Question>NVD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Vessels</Group>
+        <Question>NVE</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confounding Abnormalities</Group>
+        <Question>Confounding abnormalities</Question>
+        <Answer>na</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Comments</Group>
+        <Question>Comments</Question>
+        <Answer>na</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>153401</RandomizedSiteId>
+      <AffiliationName>Hospital universitario Río Hortega</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15340104</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V6a</TimePoint>
+    <StudyDate>20170523</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>08509-S2600</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Spectralis (OCT)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-05-24" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(263,49)</CenterLocation>
+          <CenterPointThickness>0.271</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>11.253</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.321</ThicknessSector_C>
+            <ThicknessSector_II>0.425</ThicknessSector_II>
+            <ThicknessSector_IN>0.371</ThicknessSector_IN>
+            <ThicknessSector_IS>0.422</ThicknessSector_IS>
+            <ThicknessSector_IT>0.354</ThicknessSector_IT>
+            <ThicknessSector_OI>0.454</ThicknessSector_OI>
+            <ThicknessSector_ON>0.379</ThicknessSector_ON>
+            <ThicknessSector_OS>0.426</ThicknessSector_OS>
+            <ThicknessSector_OT>0.351</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.25</VolumeSector_C>
+            <VolumeSector_II>0.67</VolumeSector_II>
+            <VolumeSector_IN>0.58</VolumeSector_IN>
+            <VolumeSector_IS>0.66</VolumeSector_IS>
+            <VolumeSector_IT>0.56</VolumeSector_IT>
+            <VolumeSector_OI>2.41</VolumeSector_OI>
+            <VolumeSector_ON>2.01</VolumeSector_ON>
+            <VolumeSector_OS>2.26</VolumeSector_OS>
+            <VolumeSector_OT>1.86</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Absent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Questionably Abnormal</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>153401</RandomizedSiteId>
+      <AffiliationName>Hospital universitario Río Hortega</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15340104</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V6a</TimePoint>
+    <StudyDate>20170523</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>08509-S2600</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Spectralis (OCT)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-05-24" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(262,50)</CenterLocation>
+          <CenterPointThickness>0.275</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>11.243</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.322</ThicknessSector_C>
+            <ThicknessSector_II>0.419</ThicknessSector_II>
+            <ThicknessSector_IN>0.367</ThicknessSector_IN>
+            <ThicknessSector_IS>0.426</ThicknessSector_IS>
+            <ThicknessSector_IT>0.358</ThicknessSector_IT>
+            <ThicknessSector_OI>0.455</ThicknessSector_OI>
+            <ThicknessSector_ON>0.376</ThicknessSector_ON>
+            <ThicknessSector_OS>0.424</ThicknessSector_OS>
+            <ThicknessSector_OT>0.354</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.25</VolumeSector_C>
+            <VolumeSector_II>0.66</VolumeSector_II>
+            <VolumeSector_IN>0.58</VolumeSector_IN>
+            <VolumeSector_IS>0.67</VolumeSector_IS>
+            <VolumeSector_IT>0.56</VolumeSector_IT>
+            <VolumeSector_OI>2.41</VolumeSector_OI>
+            <VolumeSector_ON>1.99</VolumeSector_ON>
+            <VolumeSector_OS>2.25</VolumeSector_OS>
+            <VolumeSector_OT>1.88</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Absent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Questionably Abnormal</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420121</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170509</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-12" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(269,64)</CenterLocation>
+          <CenterPointThickness>0.213</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>9.268</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.260</ThicknessSector_C>
+            <ThicknessSector_II>0.310</ThicknessSector_II>
+            <ThicknessSector_IN>0.321</ThicknessSector_IN>
+            <ThicknessSector_IS>0.369</ThicknessSector_IS>
+            <ThicknessSector_IT>0.378</ThicknessSector_IT>
+            <ThicknessSector_OI>0.290</ThicknessSector_OI>
+            <ThicknessSector_ON>0.323</ThicknessSector_ON>
+            <ThicknessSector_OS>0.359</ThicknessSector_OS>
+            <ThicknessSector_OT>0.330</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.20</VolumeSector_C>
+            <VolumeSector_II>0.49</VolumeSector_II>
+            <VolumeSector_IN>0.50</VolumeSector_IN>
+            <VolumeSector_IS>0.58</VolumeSector_IS>
+            <VolumeSector_IT>0.59</VolumeSector_IT>
+            <VolumeSector_OI>1.54</VolumeSector_OI>
+            <VolumeSector_ON>1.71</VolumeSector_ON>
+            <VolumeSector_OS>1.90</VolumeSector_OS>
+            <VolumeSector_OT>1.75</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Normal</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(RPE_ON/ISe)</LayersLabel>
+          <CenterLocation>(269,64)</CenterLocation>
+          <CenterPointThickness>0.035</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>0.775</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.032</ThicknessSector_C>
+            <ThicknessSector_II>0.032</ThicknessSector_II>
+            <ThicknessSector_IN>0.031</ThicknessSector_IN>
+            <ThicknessSector_IS>0.028</ThicknessSector_IS>
+            <ThicknessSector_IT>0.028</ThicknessSector_IT>
+            <ThicknessSector_OI>0.027</ThicknessSector_OI>
+            <ThicknessSector_ON>0.030</ThicknessSector_ON>
+            <ThicknessSector_OS>0.025</ThicknessSector_OS>
+            <ThicknessSector_OT>0.024</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.03</VolumeSector_C>
+            <VolumeSector_II>0.05</VolumeSector_II>
+            <VolumeSector_IN>0.05</VolumeSector_IN>
+            <VolumeSector_IS>0.04</VolumeSector_IS>
+            <VolumeSector_IT>0.04</VolumeSector_IT>
+            <VolumeSector_OI>0.14</VolumeSector_OI>
+            <VolumeSector_ON>0.16</VolumeSector_ON>
+            <VolumeSector_OS>0.13</VolumeSector_OS>
+            <VolumeSector_OT>0.13</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone entire thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420121</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170509</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-06-12" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(263,65)</CenterLocation>
+          <CenterPointThickness>0.207</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>9.237</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.263</ThicknessSector_C>
+            <ThicknessSector_II>0.311</ThicknessSector_II>
+            <ThicknessSector_IN>0.317</ThicknessSector_IN>
+            <ThicknessSector_IS>0.372</ThicknessSector_IS>
+            <ThicknessSector_IT>0.376</ThicknessSector_IT>
+            <ThicknessSector_OI>0.288</ThicknessSector_OI>
+            <ThicknessSector_ON>0.323</ThicknessSector_ON>
+            <ThicknessSector_OS>0.358</ThicknessSector_OS>
+            <ThicknessSector_OT>0.327</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.21</VolumeSector_C>
+            <VolumeSector_II>0.49</VolumeSector_II>
+            <VolumeSector_IN>0.50</VolumeSector_IN>
+            <VolumeSector_IS>0.58</VolumeSector_IS>
+            <VolumeSector_IT>0.59</VolumeSector_IT>
+            <VolumeSector_OI>1.53</VolumeSector_OI>
+            <VolumeSector_ON>1.71</VolumeSector_ON>
+            <VolumeSector_OS>1.90</VolumeSector_OS>
+            <VolumeSector_OT>1.73</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Questionably Abnormal</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(RPE_ON/ISe)</LayersLabel>
+          <CenterLocation>(263,65)</CenterLocation>
+          <CenterPointThickness>0.033</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>0.774</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.032</ThicknessSector_C>
+            <ThicknessSector_II>0.031</ThicknessSector_II>
+            <ThicknessSector_IN>0.031</ThicknessSector_IN>
+            <ThicknessSector_IS>0.028</ThicknessSector_IS>
+            <ThicknessSector_IT>0.028</ThicknessSector_IT>
+            <ThicknessSector_OI>0.027</ThicknessSector_OI>
+            <ThicknessSector_ON>0.030</ThicknessSector_ON>
+            <ThicknessSector_OS>0.025</ThicknessSector_OS>
+            <ThicknessSector_OT>0.024</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.03</VolumeSector_C>
+            <VolumeSector_II>0.05</VolumeSector_II>
+            <VolumeSector_IN>0.05</VolumeSector_IN>
+            <VolumeSector_IS>0.04</VolumeSector_IS>
+            <VolumeSector_IT>0.04</VolumeSector_IT>
+            <VolumeSector_OI>0.14</VolumeSector_OI>
+            <VolumeSector_ON>0.16</VolumeSector_ON>
+            <VolumeSector_OS>0.13</VolumeSector_OS>
+            <VolumeSector_OT>0.13</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone entire thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154402</RandomizedSiteId>
+      <AffiliationName>Moorfields Eye Hospital NHS Foundation Trust</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15440208</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V4a</TimePoint>
+    <StudyDate>20171107</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>03967-S3600</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Spectralis (OCT)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-11-07" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE)</LayersLabel>
+          <CenterLocation>(254,48)</CenterLocation>
+          <CenterPointThickness>0.128</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>7.258</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.193</ThicknessSector_C>
+            <ThicknessSector_II>0.256</ThicknessSector_II>
+            <ThicknessSector_IN>0.289</ThicknessSector_IN>
+            <ThicknessSector_IS>0.263</ThicknessSector_IS>
+            <ThicknessSector_IT>0.242</ThicknessSector_IT>
+            <ThicknessSector_OI>0.244</ThicknessSector_OI>
+            <ThicknessSector_ON>0.293</ThicknessSector_ON>
+            <ThicknessSector_OS>0.273</ThicknessSector_OS>
+            <ThicknessSector_OT>0.220</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.15</VolumeSector_C>
+            <VolumeSector_II>0.40</VolumeSector_II>
+            <VolumeSector_IN>0.45</VolumeSector_IN>
+            <VolumeSector_IS>0.41</VolumeSector_IS>
+            <VolumeSector_IT>0.38</VolumeSector_IT>
+            <VolumeSector_OI>1.29</VolumeSector_OI>
+            <VolumeSector_ON>1.55</VolumeSector_ON>
+            <VolumeSector_OS>1.45</VolumeSector_OS>
+            <VolumeSector_OT>1.17</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Definitely Abnormal, Patchy</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154402</RandomizedSiteId>
+      <AffiliationName>Moorfields Eye Hospital NHS Foundation Trust</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15440208</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>R</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V4a</TimePoint>
+    <StudyDate>20171107</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>03967-S3600</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Spectralis (OCT)</EquipmentModel>
+      <EquipmentManufacturer>Heidelberg Engineering, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-11-07" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE)</LayersLabel>
+          <CenterLocation>(259,48)</CenterLocation>
+          <CenterPointThickness>0.132</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>7.274</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.192</ThicknessSector_C>
+            <ThicknessSector_II>0.258</ThicknessSector_II>
+            <ThicknessSector_IN>0.294</ThicknessSector_IN>
+            <ThicknessSector_IS>0.264</ThicknessSector_IS>
+            <ThicknessSector_IT>0.241</ThicknessSector_IT>
+            <ThicknessSector_OI>0.244</ThicknessSector_OI>
+            <ThicknessSector_ON>0.292</ThicknessSector_ON>
+            <ThicknessSector_OS>0.274</ThicknessSector_OS>
+            <ThicknessSector_OT>0.221</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.15</VolumeSector_C>
+            <VolumeSector_II>0.41</VolumeSector_II>
+            <VolumeSector_IN>0.46</VolumeSector_IN>
+            <VolumeSector_IS>0.41</VolumeSector_IS>
+            <VolumeSector_IT>0.38</VolumeSector_IT>
+            <VolumeSector_OI>1.29</VolumeSector_OI>
+            <VolumeSector_ON>1.55</VolumeSector_ON>
+            <VolumeSector_OS>1.45</VolumeSector_OS>
+            <VolumeSector_OT>1.17</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Definite, central subfield involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Definite, Central Subfield Involved</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Definitely Abnormal, Patchy</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>Clinically  Significant, center involved DME</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>R</Laterality>
+        <Group>Clinically Significant</Group>
+        <Question>CSF thinkness increase of &gt;= 50um from baseline</Question>
+        <Answer>Not Applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420109</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170220</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-20" PerformedBy="Myers, Dawn">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(261,62)</CenterLocation>
+          <CenterPointThickness>0.194</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>7.180</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.233</ThicknessSector_C>
+            <ThicknessSector_II>0.294</ThicknessSector_II>
+            <ThicknessSector_IN>0.295</ThicknessSector_IN>
+            <ThicknessSector_IS>0.292</ThicknessSector_IS>
+            <ThicknessSector_IT>0.281</ThicknessSector_IT>
+            <ThicknessSector_OI>0.242</ThicknessSector_OI>
+            <ThicknessSector_ON>0.260</ThicknessSector_ON>
+            <ThicknessSector_OS>0.237</ThicknessSector_OS>
+            <ThicknessSector_OT>0.236</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.18</VolumeSector_C>
+            <VolumeSector_II>0.46</VolumeSector_II>
+            <VolumeSector_IN>0.46</VolumeSector_IN>
+            <VolumeSector_IS>0.46</VolumeSector_IS>
+            <VolumeSector_IT>0.44</VolumeSector_IT>
+            <VolumeSector_OI>1.28</VolumeSector_OI>
+            <VolumeSector_ON>1.38</VolumeSector_ON>
+            <VolumeSector_OS>1.26</VolumeSector_OS>
+            <VolumeSector_OT>1.25</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Normal</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(RPE_ON/ISe)</LayersLabel>
+          <CenterLocation>(261,62)</CenterLocation>
+          <CenterPointThickness>0.037</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>0.607</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.029</ThicknessSector_C>
+            <ThicknessSector_II>0.025</ThicknessSector_II>
+            <ThicknessSector_IN>0.025</ThicknessSector_IN>
+            <ThicknessSector_IS>0.025</ThicknessSector_IS>
+            <ThicknessSector_IT>0.026</ThicknessSector_IT>
+            <ThicknessSector_OI>0.019</ThicknessSector_OI>
+            <ThicknessSector_ON>0.020</ThicknessSector_ON>
+            <ThicknessSector_OS>0.019</ThicknessSector_OS>
+            <ThicknessSector_OT>0.022</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.02</VolumeSector_C>
+            <VolumeSector_II>0.04</VolumeSector_II>
+            <VolumeSector_IN>0.04</VolumeSector_IN>
+            <VolumeSector_IS>0.04</VolumeSector_IS>
+            <VolumeSector_IT>0.04</VolumeSector_IT>
+            <VolumeSector_OI>0.10</VolumeSector_OI>
+            <VolumeSector_ON>0.11</VolumeSector_ON>
+            <VolumeSector_OS>0.10</VolumeSector_OS>
+            <VolumeSector_OT>0.12</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone entire thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+  <GradingReport>
+    <Study>
+      <StudyName>TG-MV-015</StudyName>
+      <StudyAlias>CIRCLE</StudyAlias>
+    </Study>
+    <Sponsors>
+      <Sponsor>ThromboGenics</Sponsor>
+      <Sponsor>Parexel International</Sponsor>
+    </Sponsors>
+    <Site>
+      <RandomizedSiteId>154201</RandomizedSiteId>
+      <AffiliationName>FN Kralovske Vinohrady</AffiliationName>
+    </Site>
+    <Subject>
+      <RandomizedSubjectId>15420109</RandomizedSubjectId>
+      <AlternativeRandomizedSubjectId />
+      <SubjectNameCode />
+      <RandomizedLaterality>L</RandomizedLaterality>
+    </Subject>
+    <TimePoint>V1 - Post Eligibility</TimePoint>
+    <StudyDate>20170220</StudyDate>
+    <Procedure>SD-OCT</Procedure>
+    <Equipment>
+      <EquipmentSerial>4000-7396</EquipmentSerial>
+      <EquipmentType>SD-OCT</EquipmentType>
+      <EquipmentModel>Cirrus</EquipmentModel>
+      <EquipmentManufacturer>Carl Zeiss Meditec, Inc.</EquipmentManufacturer>
+    </Equipment>
+    <Results PerformedDate="2017-04-21" PerformedBy="Benz, Wendy">
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Confidence Score</Question>
+        <Answer>CS2: Adequate confidence</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Confidence Score</Group>
+        <Question>Comments (OCT artifacts)</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Retinal thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(ILM/RPE_ON)</LayersLabel>
+          <CenterLocation>(262,63)</CenterLocation>
+          <CenterPointThickness>0.190</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>7.177</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.232</ThicknessSector_C>
+            <ThicknessSector_II>0.295</ThicknessSector_II>
+            <ThicknessSector_IN>0.295</ThicknessSector_IN>
+            <ThicknessSector_IS>0.292</ThicknessSector_IS>
+            <ThicknessSector_IT>0.281</ThicknessSector_IT>
+            <ThicknessSector_OI>0.240</ThicknessSector_OI>
+            <ThicknessSector_ON>0.261</ThicknessSector_ON>
+            <ThicknessSector_OS>0.238</ThicknessSector_OS>
+            <ThicknessSector_OT>0.236</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.18</VolumeSector_C>
+            <VolumeSector_II>0.46</VolumeSector_II>
+            <VolumeSector_IN>0.46</VolumeSector_IN>
+            <VolumeSector_IS>0.46</VolumeSector_IS>
+            <VolumeSector_IT>0.44</VolumeSector_IT>
+            <VolumeSector_OI>1.27</VolumeSector_OI>
+            <VolumeSector_ON>1.38</VolumeSector_ON>
+            <VolumeSector_OS>1.26</VolumeSector_OS>
+            <VolumeSector_OT>1.25</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Retinal Thickness</Group>
+        <Question>Center point thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD Presence</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD height at center point</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>SSRD maximum height</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Cystoid Spaces</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Intraretinal Fluid</Question>
+        <Answer>Questionable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Posterior Vitreous Detachment (PVD)</Question>
+        <Answer>Adherent PVD</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>ERM</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>RTD</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular Hole</Question>
+        <Answer>Absent</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole widest distance</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Macular hole distance at base</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>OCT Morphology</Group>
+        <Question>Status of IS-OS within Central Subfield</Question>
+        <Answer>Normal</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone thickness grid</Question>
+        <OCTGrid>
+          <LayersLabel>(RPE_ON/ISe)</LayersLabel>
+          <CenterLocation>(262,63)</CenterLocation>
+          <CenterPointThickness>0.039</CenterPointThickness>
+          <CenterPointThicknessUnit>mm</CenterPointThicknessUnit>
+          <TotalVolume>0.607</TotalVolume>
+          <TotalVolumeUnit>mm3</TotalVolumeUnit>
+          <ThicknessSectorsUnit>mm</ThicknessSectorsUnit>
+          <ThicknessSectors>
+            <ThicknessSector_C>0.029</ThicknessSector_C>
+            <ThicknessSector_II>0.025</ThicknessSector_II>
+            <ThicknessSector_IN>0.025</ThicknessSector_IN>
+            <ThicknessSector_IS>0.025</ThicknessSector_IS>
+            <ThicknessSector_IT>0.026</ThicknessSector_IT>
+            <ThicknessSector_OI>0.019</ThicknessSector_OI>
+            <ThicknessSector_ON>0.020</ThicknessSector_ON>
+            <ThicknessSector_OS>0.019</ThicknessSector_OS>
+            <ThicknessSector_OT>0.022</ThicknessSector_OT>
+          </ThicknessSectors>
+          <VolumeSectors>
+            <VolumeSectorsUnit>mm3</VolumeSectorsUnit>
+            <VolumeSector_C>0.02</VolumeSector_C>
+            <VolumeSector_II>0.04</VolumeSector_II>
+            <VolumeSector_IN>0.04</VolumeSector_IN>
+            <VolumeSector_IS>0.04</VolumeSector_IS>
+            <VolumeSector_IT>0.04</VolumeSector_IT>
+            <VolumeSector_OI>0.10</VolumeSector_OI>
+            <VolumeSector_ON>0.11</VolumeSector_ON>
+            <VolumeSector_OS>0.10</VolumeSector_OS>
+            <VolumeSector_OT>0.12</VolumeSector_OT>
+          </VolumeSectors>
+        </OCTGrid>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone entire thickness grid reliable</Question>
+        <Answer>Yes</Answer>
+      </Result>
+      <Result>
+        <Laterality>L</Laterality>
+        <Group>Ellipsoid</Group>
+        <Question>Ellipsoid zone center subfield thickness reliable</Question>
+        <Answer>Not applicable</Answer>
+      </Result>
+    </Results>
+  </GradingReport>
+</GradingReports>

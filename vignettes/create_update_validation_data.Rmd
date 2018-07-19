@@ -1,0 +1,106 @@
+---
+title: "Create/Update Validation Data"
+author: "Ralph Trane"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Create/Update Validation Data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Purpose
+This document goes through the steps of creating an `R` data set with validation data, or if one has already been created, update an existing .rds file.
+
+### Create New Validation Data
+
+First, we need to specify the folder
+
+```{r}
+library(ExcelsiorXMLMining)
+
+data_folder <- "Data/"
+```
+
+Next, we use the function `xml_to_tibble` to read all .xml files in that folder. We get a bunch of warnings here, but these do not have any influence on the results.
+
+```{r}
+all_xml_data <- xml_to_tibble(folder = data_folder,
+                              n_head = NA)
+```
+
+This creates a tibble with one row per grading report. All information about the grading report that doesn not have to do with the results (i.e. everything that's not questions, answers, units, etc.) has been extracted, and the rest is stored in a list column, where each element is an `xml_node`.
+
+```{r}
+str(all_xml_data, max.level = 1)
+```
+
+```{r}
+all_xml_data
+```
+
+Now, we apply the function `xml_get_answers` to the resulting tibble. At a first glance, it seems that nothing has changed. 
+
+```{r}
+validation_data <- xml_get_answers(all_xml_data)
+str(validation_data, max.level = 1)
+```
+
+What this function does is it unfolds the xml nodes in the `Results` list and return a tibble. 
+
+```{r}
+str(head(all_xml_data$Results))
+```
+```{r}
+str(head(validation_data$Results), max.level = 2)
+```
+
+As can be seen from the output above, each element of the `Results` column is now a tibble with two variables: `Laterality` and `QA`. The list column, `QA`, has all information regarding questions and answers, including units. 
+
+```{r}
+str(head(validation_data$Results[[1]]$QA), max.level = 2)
+```
+
+This is the final format of the data. One row per grading report, one column per variable with everyting regarding results in the list column `Results`. We go ahead a save the data.
+
+```{r}
+write_rds(validation_data, "validation_data.rds")
+```
+
+### Update Existing Validation Data
+
+Since the creation of this validation data can take a while when we want to include all studies, we don't want to waste time unfolding xml files that we have already processed earlier. So, the following few paragraphs shows how to update an existing validation data set.
+
+First, we read all xml files.
+```{r}
+all_xml_data <- xml_to_tibble(folder = 'New_Data/',
+                              n_head = 1)
+```
+
+Next, we read the .rds file with existing validation data.
+```{r}
+latest_valid_data <- read_rds(path = 'validation_data.rds')
+```
+
+Then, using anti_join we filter out all grading reports that are already present in the latest validation data.
+```{r}
+new_validation_data <- all_xml_data %>%
+  anti_join(latest_valid_data %>% select(-Results)) %>% 
+  xml_get_answers(show_progress = TRUE) 
+```
+
+
+Finally, we simply combine the latest and the new validation data, and overwrite the file. 
+```{r}
+all_validation_data <- bind_rows(latest_valid_data, new_validation_data)
+
+write_rds(all_validation_data,
+          path = 'validation_data.rds')
+```

@@ -1,0 +1,26 @@
+Package: ExcelsiorXMLMining
+Title: Excelsior XML files data mining
+Version: 0.0.0.9000
+Authors@R: person("Ralph", "Trane", email = "rmtrane@gmail.com", role = c("aut", "cre"))
+Description: This package provides a set of functions specifically to unwrap .xml files download from Excelsior. It works with both primary grading results and variability reports.
+Depends: R (>= 3.4.3),
+    rvest,
+    dplyr,
+    purrr,
+    readr,
+    tidyr,
+    stringr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    rvest,
+    dplyr,
+    purrr,
+    readr,
+    tidyr,
+    stringr
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
